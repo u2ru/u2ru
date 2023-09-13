@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a student and Software Engineer.<br>⚡️ Creating responsible UI since 2018, currently focusing on JS/TS front-end frameworks. 
+💻 I am a student and Software Engineer.<br>⚡️ Creating responsible UI since 2018, currently focusing on JS/TS full-stack frameworks. 
 
 
 ## 🌐 Socials:
