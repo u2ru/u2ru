@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a student and Software Engineer.<br>⚡️ Creating responsible UI since 2018, currently focusing on JS/TS full-stack frameworks. 
+💻 Full-stack software engineer proficient in JS/TS frameworks. Adept at exploring low-level languages and dedicated to transforming ideas into digital realities. 
 
 
 ## 🌐 Socials:
