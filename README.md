@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-stack software engineer proficient in JS/TS frameworks. Adept at exploring low-level languages and dedicated to transforming ideas into digital realities. 
+💻 Software Engineer proficient in JS/TS frameworks. Adept at exploring low-level languages and dedicated to transforming ideas into digital realities. 
 
 
 ## 🌐 Socials:
