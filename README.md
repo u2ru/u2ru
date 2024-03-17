@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uru.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaurushadze/) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/code0a)](https://x.com/code0a)
 
 # 📊 GitHub Stats:
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=u2ru&theme=github-dark)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=u2ru&theme=light)
 <br/>
 ![](https://myreadme.vercel.app/api/embed/u2ru?panels=userstatistics)
 
