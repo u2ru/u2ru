@@ -7,6 +7,4 @@
 --
 [![Follow on GitHub](https://img.shields.io/github/followers/u2ru?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/u2ru)
 
-![](https://visitcount.itsvg.in/api?id=u2ru&icon=5&color=3)
-
 [![Badge](https://tryhackme-badges.s3.amazonaws.com/ur404ru.png)](https://tryhackme.com/p/ur404ru)
