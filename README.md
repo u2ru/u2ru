@@ -9,3 +9,4 @@
 
 ![](https://visitcount.itsvg.in/api?id=u2ru&icon=5&color=3)
 
+[![Badge](https://tryhackme-badges.s3.amazonaws.com/ur404ru.png)](https://tryhackme.com/p/ur404ru)
